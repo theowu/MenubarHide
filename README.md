@@ -1,6 +1,6 @@
 **MenubarHide** is a very simple **Mac OS X / macOS** application that lets you show or hide system-cached files via a little menubar icon. Simply launch application without typing long commands every time in the terminal to show or hide those annoying system files.
 
-#Historical versions#
+##Historical versions##
 
 ###version 1.0###
 

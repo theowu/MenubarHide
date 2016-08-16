@@ -2,7 +2,7 @@
 
 ###Historical versions###
 
-##version 1.0##
+#version 1.0#
 
 The **initial release** including the very basic function of hiding and showing cached files, however, it does have some problems such as:
 when the cached files are already shown on the desktop, click on "show files" will cache them..., perhaps further versions will solve that...
